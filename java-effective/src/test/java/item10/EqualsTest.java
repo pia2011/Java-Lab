@@ -1,3 +1,5 @@
+package item10;
+
 import item10.A;
 import item10.B;
 import org.junit.jupiter.api.Assertions;
